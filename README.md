@@ -252,3 +252,5 @@ stage('Plot Code Coverage Report') {
 
 }
 }
+
+end
